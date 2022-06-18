@@ -1,1 +1,1 @@
-# tailwind-flak-blog
+# tailwind-flask-blog
