@@ -4,7 +4,7 @@ Flask blog using tailwind, [Most of the code is from here](https://www.digitaloc
 
 ## Setup
 
- 1. Setup a virtual enviroment (venv, enc. etc)
+ 1. Setup a virtual enviroment
  2. Get the packages: Flask
  3. Run init_db.py which will create the database
  4. And the app.py is where all the files are
